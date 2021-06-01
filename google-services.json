@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951755787003",
+    "project_id": "whatnote-96aa9",
+    "storage_bucket": "whatnote-96aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951755787003:android:651b2e1df62bd606067e5e",
+        "android_client_info": {
+          "package_name": "com.aplacador.whatnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951755787003-8qk0hr99prirei7kfu0ieuc0uqt77ku3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3-hsoDiW45phjm8I7ANhwRuEsEub8SC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951755787003-8qk0hr99prirei7kfu0ieuc0uqt77ku3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
